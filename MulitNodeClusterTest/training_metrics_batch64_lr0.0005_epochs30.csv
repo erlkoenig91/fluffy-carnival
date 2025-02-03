@@ -1,0 +1,1 @@
+Epoch,CPU_Usage(%),RAM_Usage(%),GPU_Usage(%),GPU_Memory_Used(MB),GPU_Power(W),Network_Usage(Bytes),Epoch_Training_Time(s)
